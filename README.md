@@ -10,7 +10,7 @@ To add this indicator works on login, just type Startup Applications on the dash
 
 ## French
 Ceci est un indicateur pour le bureau Unity d'Ubuntu. Il ira se placer en haut à droite de votre bureau à côté de l'heure au démarrage de votre session (si vous le lui demandez gentiment).
-Il affiche un feu tricolore représentant l'état dans lequel se trouve apache et mysql. Vous pourrez alors voir d'un coup d'oeil si votre serveur local est en route et le lancer d'un clique (vous pourrez aussi l'arrêter et le relancer au besoin).
+Il affiche un feu tricolore représentant l'état dans lequel se trouvent apache et mysql. Vous pourrez alors voir d'un coup d'oeil si votre serveur local est en route et le lancer d'un clic (vous pourrez aussi l'arrêter et le relancer au besoin).
 
 Pour lancer le script python rien de plus simple, aller dans la console dans le dossier de votre script (<code>cd le_chemin_du_dossier</code>) et lancer la commande suivante :
 <pre><code>python lamp-indicator.py &</code></pre>
